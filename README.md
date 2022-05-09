@@ -11,7 +11,7 @@ Academipsum is a dynamic ipsum text generator, that generates ipsum dummy text f
 
 * Front End - https://github.com/iO-Academy/2022-jan-ipsum-fe
 * Back End - https://github.com/iO-Academy/2022-jan-ipsum-be
-<!-- * Live Project -->
+* Live Project - https://2022-academipsum.dev.io-academy.uk/
 
 ---
 
