@@ -7,7 +7,7 @@ I'm a full stack developer from Bristol, UK
 ## Latest Project 
 
 ### iO Academipsum - Ipsum text generator
-Academipsum is a dynamic [ipsum text](https://en.wikipedia.org/wiki/Lorem_ipsum) generator, that generates ipsum dummy text from a collection of [iO Academy](https://io-academy.uk/) specific words. The front end is a single page application built using React framework and styled with Sass. Data is served through a RESTful API, on the back-end, written in Node.js using a controller services pattern and pulling from a MongoDB collection.
+Academipsum is a dynamic [ipsum text](https://en.wikipedia.org/wiki/Lorem_ipsum) generator, that generates ipsum dummy text from a collection of [iO Academy](https://io-academy.uk/) specific words. This is a full-stack project, built using the MERN stack. The front end is a single page application built using React framework and styled with Sass. Data is served through a RESTful API, on the back-end, written in Node.js using a controller services pattern and pulling from a MongoDB collection.
 
 * Front End - https://github.com/iO-Academy/2022-jan-ipsum-fe
 * Back End - https://github.com/iO-Academy/2022-jan-ipsum-be
